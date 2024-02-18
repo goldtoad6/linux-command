@@ -441,8 +441,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/alfchao" title="alfred">
   <img src="https://avatars.githubusercontent.com/u/49786895?v=4" width="42;" alt="alfred"/>
 </a>
-<a href="https://github.com/Evilrabbit520" title="Wang Jianing">
-  <img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Jianing"/>
+<a href="https://github.com/Evilrabbit520" title="Wang Yujia">
+  <img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/>
 </a>
 <a href="https://github.com/Qliangw" title="Qliangw">
   <img src="https://avatars.githubusercontent.com/u/22791711?v=4" width="42;" alt="Qliangw"/>
